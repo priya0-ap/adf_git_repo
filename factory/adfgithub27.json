@@ -1,0 +1,9 @@
+{
+	"name": "adfgithub27",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "929c24e6-5845-434c-9d41-5aa342671369",
+		"tenantId": "27e5324f-379c-4385-b935-7666a15e4103"
+	}
+}
