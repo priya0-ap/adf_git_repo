@@ -1,0 +1,18 @@
+{
+	"name": "demo_AP",
+	"properties": {
+		"description": "This is my first demo pipeline which is created by me and name of this file is demo_AP",
+		"activities": [
+			{
+				"name": "Wait1",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": []
+	}
+}
